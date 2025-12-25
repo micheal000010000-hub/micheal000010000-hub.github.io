@@ -10,7 +10,7 @@ structured learning, and open documentation of my progress.
 
 ## Current Focus
 
-- Building core problem-solving ability through **daily LeetCode practice**
+- Building core problem-solving ability through **Daily LeetCode Practice**
 - Learning and documenting **AWS fundamentals** with the goal of contributing to the AWS community
 - Actively working toward eligibility for the **AWS Community Builders Program**
 - Participating in **Hackonomics 2026**, focusing on applied problem-solving and collaboration
@@ -25,7 +25,7 @@ as I learn through AWS Skill Builder and official documentation.
 
 Topics include IAM, EC2, S3, and cloud fundamentals.
 
-🔗 https://github.com/micheal000010000-hub/aws-learning-notes
+🔗 [https://github.com/micheal000010000-hub/aws-learning-notes](https://github.com/micheal000010000-hub/aws-learning-notes)
 
 ---
 
@@ -33,8 +33,11 @@ Topics include IAM, EC2, S3, and cloud fundamentals.
 Active participation repository for **Hackonomics 2026**, a global hackathon focused on
 innovation and real-world problem solving.
 
-- Hackathon page: https://hackonomics.devpost.com/
-- GitHub repository: https://github.com/micheal000010000-hub/HACKONOMICS2026
+- Hackathon page:  
+  🔗 [https://hackonomics.devpost.com/](https://hackonomics.devpost.com/)
+
+- GitHub repository:  
+  🔗 [https://github.com/micheal000010000-hub/HACKONOMICS2026](https://github.com/micheal000010000-hub/HACKONOMICS2026)
 
 **Collaborations are welcome** — feel free to reach out if you’re interested in building
 or exploring ideas together as part of Hackonomics 2026.
@@ -45,7 +48,7 @@ or exploring ideas together as part of Hackonomics 2026.
 Daily problem-solving practice with documented solutions, refinements,
 and thought processes to strengthen algorithmic fundamentals.
 
-🔗 https://github.com/micheal000010000-hub/leetcode-solutions
+🔗 [https://github.com/micheal000010000-hub/leetcode-solutions](https://github.com/micheal000010000-hub/leetcode-solutions)
 
 ---
 
@@ -53,7 +56,7 @@ and thought processes to strengthen algorithmic fundamentals.
 Concise technical notes capturing non-obvious details, clarifications,
 and observations encountered during development and study.
 
-🔗 https://github.com/micheal000010000-hub/tech-notes
+🔗 [https://github.com/micheal000010000-hub/tech-notes](https://github.com/micheal000010000-hub/tech-notes)
 
 ---
 
@@ -68,10 +71,11 @@ until learning and doing become indistinguishable.
 
 ## Contact
 
-- Email: **micheal000010000@gmail.com**
+- Email: **[micheal000010000@gmail.com](mailto:micheal000010000@gmail.com)**
 
 ---
 
 ## GitHub
 
-- Profile: https://github.com/micheal000010000-hub
+- Profile:  
+  🔗 [https://github.com/micheal000010000-hub](https://github.com/micheal000010000-hub)
