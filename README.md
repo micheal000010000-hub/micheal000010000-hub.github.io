@@ -36,6 +36,26 @@ All articles are published on my DEV.to profile:
 
 ## Projects
 
+### 🔹 AWS EC2 RAG Chatbot
+
+A **Retrieval-Augmented Generation (RAG) chatbot** that answers questions about  
+**AWS EC2 instance types** by grounding responses in **official AWS documentation**.
+
+- Knowledge source:  
+  👉 [AWS EC2 Instance Types – Official Documentation](https://docs.aws.amazon.com/ec2/latest/instancetypes/)  
+- Built to reinforce AWS learning by **building applications instead of only reading docs**  
+- Demonstrates practical use of RAG for documentation-driven systems
+
+**Tech stack:**
+- Gemini Flash 2.5  
+- LangChain  
+- ChromaDB  
+
+**Repository:**  
+👉 https://github.com/micheal000010000-hub/AWS-EC2-RAG-CHATBOT  
+
+This project is also referenced in one of my DEV.to learning-by-building write-ups.
+
 ### 🔹 Hackonomics 2026
 Active participation in a global hackathon.  
 - Hackathon page: 👉 [Hackonomics 2026](https://hackonomics.devpost.com/)  
