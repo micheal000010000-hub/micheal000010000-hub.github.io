@@ -52,7 +52,7 @@ A **Retrieval-Augmented Generation (RAG) chatbot** that answers questions about
 - ChromaDB  
 
 **Repository:**  
-👉 https://github.com/micheal000010000-hub/AWS-EC2-RAG-CHATBOT  (https://github.com/micheal000010000-hub/AWS-EC2-RAG-CHATBOT)
+👉 [https://github.com/micheal000010000-hub/AWS-EC2-RAG-CHATBOT](https://github.com/micheal000010000-hub/AWS-EC2-RAG-CHATBOT)
 
 This project is also referenced in one of my DEV.to learning-by-building write-ups.
 
