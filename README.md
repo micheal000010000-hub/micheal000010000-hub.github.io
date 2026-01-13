@@ -22,6 +22,9 @@ This page also represents part of my long-term preparation toward the
 - Publishing clear, beginner-friendly explanations derived from hands-on work  
 - Actively progressing toward eligibility for the **AWS Community Builders Program**
 
+**Repository:**  
+👉 [https://github.com/micheal000010000-hub/AWS-EC2-RAG-CHATBOT](https://github.com/micheal000010000-hub/AWS-EC2-RAG-CHATBOT)
+
 ---
 
 ## Blogs & Writing
