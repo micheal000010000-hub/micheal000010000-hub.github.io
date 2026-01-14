@@ -69,9 +69,6 @@ Active participation in a global hackathon.
 Daily problem-solving practice with documented solutions.  
 👉 [LeetCode Solutions](https://github.com/micheal000010000-hub/leetcode-solutions)
 
-### 🔹 Tech Notes
-Concise technical notes capturing clarifications, observations, and learning outcomes.  
-👉 [Tech Notes](https://github.com/micheal000010000-hub/tech-notes)
 
 ---
 
