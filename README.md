@@ -19,8 +19,7 @@ MCP (Model Context Protocol) — actively exploring
 **Languages & Tools**
 Python · GitHub Actions · Git · VS Code
 
-**Cloud & Infrastructure**
-AWS (EC2, IAM, S3) · Cloud fundamentals · Virtualization — learning in depth
+
 
 **CS Fundamentals**
 Data Structures & Algorithms · Concurrency & multithreading · System design
